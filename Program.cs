@@ -62,7 +62,7 @@ namespace _03022026
             }
 
             Console.WriteLine();
-            Console.WriteLine($"Вашият резултат е: {score} от 3");
+            Console.WriteLine($"Вашият резултат е: {score} от 3 точки");
 
             Console.WriteLine("Натиснете клавиш за изход...");
             Console.ReadKey();
